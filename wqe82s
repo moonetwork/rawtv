@@ -9,7 +9,7 @@ https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 http://id6.indostreamingtv.com/live/rcti/index.m3u8
 #EXTINF:-1 ,MNC TV
 http://id6.indostreamingtv.com/live/mnctv/index.m3u8
-#EXTINF:-1 ,MNC+
+#EXTINF:-1 ,MNC TV
 https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
 #EXTINF:-1 ,SCTV
 http://202.80.222.130/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -17,7 +17,7 @@ http://202.80.222.130/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=0
 http://202.80.222.130/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 ,TRANS TV
 http://202.80.222.130/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 ,INEWS+
+#EXTINF:-1 ,INEWS
 https://live.rctiplus.id/rctiplus/inews_720p.m3u8
 #EXTINF:-1 ,NET TV
 http://id2.indostreamingtv.com/live/nettv/index.m3u8
@@ -575,10 +575,7 @@ http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/27.ts
 http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/59.ts
 #EXTINF:-1 ,ES: C  ACCION HD
 http://iptv4.premium-stv.com:8000/live/sourceespsnow/SlPLTtbsxV/61.ts
-#EXTINF:-1 ,http://iptv4.premium-stv.com:8000/get.php?username=SPAINGENERAL&password=wvuqJKSLtP&type=m3u                15-10-2019
-http://iptv4.premium-stv.com:8000/get.php?username=SPAINGENERAL&password=wvuqJKSLtP&type=m3u%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2015-10-2019
-https://www.achoapps.com/listas/adultos.m3u
-#EXTINF:-1 ,ATV 2
+EXTINF:-1 ,ATV 2
 http://live.netd.com.tr/S1/HLS_LIVE/atv/1000/prog_index.m3u8
 #EXTINF:-1 ,Kanal D 1
 http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
@@ -850,141 +847,33 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 #EXTINF:-1 group-title="LOKALHD",BERITA SATU WORLD
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
-#EXTINF:-1 ,iptvtools_2
-http://graph.facebook.com/24htve/picture?width=320&height=320
-#EXTINF:-1 ,iptvtools_4
-http://graph.facebook.com/298335373532952/picture?width=320&height=320
-#EXTINF:-1 ,iptvtools_6
-http://graph.facebook.com/324cat/picture?width=320&height=320
-#EXTINF:-1 ,iptvtools_12
-http://graph.facebook.com/8tvcadiz/picture?width=320&height=320
-#EXTINF:-1 ,iptvtools_14
-http://graph.facebook.com/apuntmedia/picture?width=320&height=320
-#EXTINF:-1 ,iptvtools_20
-https://lh3.googleusercontent.com/reK_4oh88GRPldelDZd4R09-qb45thX1p48RoRqLtRwYWfmjuDA5p8L59GC3WuVILOt6=s320
-#EXTINF:-1 ,iptvtools_22
-http://graph.facebook.com/BeMadTV/picture?width=320&height=320
-#EXTINF:-1 ,iptvtools_27
-http://graph.facebook.com/434470346582124/picture?width=320&height=320
-#EXTINF:-1 ,iptvtools_32
-http://graph.facebook.com/Canal10Television/picture?width=320&height=320
-#EXTINF:-1 ,iptvtools_35
-http://graph.facebook.com/tvbarbastro/picture?width=320&height=320
-#EXTINF:-1 ,iptvtools_38
-http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320
-#EXTINF:-1 ,iptvtools_41
-http://graph.facebook.com/radiotelevisiondiocesanatoledo/picture?width=320&height=320
-#EXTINF:-1 ,iptvtools_43
-http://graph.facebook.com/donanacomunica/picture?width=320&height=320
-#EXTINF:-1 ,iptvtools_45
-http://graph.facebook.com/CanalExtremadura/picture?width=320&height=320
-#EXTINF:-1 ,iptvtools_49
-http://graph.facebook.com/parlamentcat/picture?width=320&height=320
-#EXTINF:-1 ,iptvtools_51
-http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320
-#EXTINF:-1 ,iptvtools_53
-http://graph.facebook.com/CanalTaronjaOsona/picture?width=320&height=320
-#EXTINF:-1 ,iptvtools_55
-http://graph.facebook.com/canalcosta/picture?width=320&height=320
-#EXTINF:-1 ,iptvtools_58
-http://graph.facebook.com/condavision/picture?width=320&height=320
-#EXTINF:-1 ,iptvtools_60
-http://graph.facebook.com/costadelsoltv/picture?width=320&height=320
-#EXTINF:-1 ,iptvtools_63
-http://graph.facebook.com/cuatro/picture?width=320&height=320
-#EXTINF:-1 ,iptvtools_70
-http://graph.facebook.com/divinityes/picture?width=320&height=320
-#EXTINF:-1 ,iptvtools_74
-http://graph.facebook.com/elcorreoweb/picture?width=320&height=320
-#EXTINF:-1 ,iptvtools_76
-http://graph.facebook.com/GrupoIntereconomia/picture?width=320&height=320
-#EXTINF:-1 ,iptvtools_78
-http://graph.facebook.com/E.EnergyTV/picture?width=320&height=320
-#EXTINF:-1 ,iptvtools_81
-http://graph.facebook.com/E.EnergyTV/picture?width=320&height=320
-#EXTINF:-1 ,iptvtools_83
-http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320
-#EXTINF:-1 ,iptvtools_90
-http://graph.facebook.com/factoriadeficcion/picture?width=320&height=320
-#EXTINF:-1 ,iptvtools_92
-http://graph.facebook.com/ibizaglobaltv/picture?width=320&height=320
-#EXTINF:-1 ,iptvtools_95
-http://graph.facebook.com/Interalmeriatv/picture?width=320&height=320
-#EXTINF:-1 ,iptvtools_97
-http://graph.facebook.com/LaOcho.tv/picture?width=320&height=320
-#EXTINF:-1 ,iptvtools_101
-http://graph.facebook.com/288850935035196/picture?width=320&height=320
-#EXTINF:-1 ,iptvtools_104
-http://graph.facebook.com/RTVMarbella/picture?width=320&height=320
-#EXTINF:-1 ,iptvtools_107
-http://graph.facebook.com/molaTV/picture?width=320&height=320
-#EXTINF:-1 ,iptvtools_109
-http://graph.facebook.com/mtmad.es/picture?width=320&height=320
-#EXTINF:-1 ,iptvtools_111
-http://graph.facebook.com/ondaalgecirastv/picture?width=320&height=320
-#EXTINF:-1 ,iptvtools_113
-http://graph.facebook.com/populartvcantabria/picture?width=320&height=320
-#EXTINF:-1 ,iptvtools_115
-http://graph.facebook.com/populartvml/picture?width=320&height=320
-#EXTINF:-1 ,iptvtools_121
-http://graph.facebook.com/TBNEspana/picture?width=320&height=320
-#EXTINF:-1 ,iptvtools_123
-http://graph.facebook.com/812891658754713/picture?width=320&height=320
-#EXTINF:-1 ,iptvtools_125
-http://graph.facebook.com/575943555801687/picture?width=320&height=320
-#EXTINF:-1 ,iptvtools_127
-http://graph.facebook.com/la2detve/picture?width=320&height=320
-#EXTINF:-1 ,iptvtools_133
-http://graph.facebook.com/radiotelevisionmogan/picture?width=320&height=320
-#EXTINF:-1 ,iptvtools_136
-http://graph.facebook.com/876348079083751/picture?width=320&height=320
-#EXTINF:-1 ,iptvtools_138
-http://graph.facebook.com/RTPAoficial/picture?width=320&height=320
-#EXTINF:-1 ,iptvtools_141
-http://graph.facebook.com/TRECEtves/picture?width=320&height=320
-#EXTINF:-1 ,iptvtools_147
-http://graph.facebook.com/tvgirona/picture?width=320&height=320
-#EXTINF:-1 ,iptvtools_153
-http://graph.facebook.com/tv3/picture?width=320&height=320
-#EXTINF:-1 ,iptvtools_157
-http://graph.facebook.com/tv3/picture?width=320&height=320
-#EXTINF:-1 ,iptvtools_161
-http://graph.facebook.com/CRTVG/picture?width=320&height=320
-#EXTINF:-1 ,iptvtools_163
-http://graph.facebook.com/CRTVG/picture?width=320&height=320
-#EXTINF:-1 ,iptvtools_165
-http://graph.facebook.com/CRTVG/picture?width=320&height=320
-#EXTINF:-1 ,iptvtools_167
-http://graph.facebook.com/CRTVG/picture?width=320&height=320
-#EXTINF:-1 ,iptvtools_169
-http://graph.facebook.com/CRTVG/picture?width=320&height=320
-#EXTINF:-1 ,FDF www.achoAPPS.com
+#EXTINF:-1 ,FDF
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
-#EXTINF:-1 ,Fight Time www.achoAPPS.com
+#EXTINF:-1 ,Fight Time
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8?
-#EXTINF:-1 ,Informacion TV www.achoAPPS.com
+#EXTINF:-1 ,Informacion TV
 http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/livestream.m3u8
-#EXTINF:-1 ,La Xarxa www.achoAPPS.com
+#EXTINF:-1 ,La Xarxa
 http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
-#EXTINF:-1 ,Lebrija TV www.achoAPPS.com
+#EXTINF:-1 ,Lebrija TV
 http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
-#EXTINF:-1 ,Mola TV www.achoAPPS.com
+#EXTINF:-1 ,Mola TV
 http://ventdelnord.tv:8080/mola/directe.m3u8
-#EXTINF:-1 ,Navarra TV www.achoAPPS.com
+#EXTINF:-1 ,Navarra TV
 http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
-#EXTINF:-1 ,RMadrid TV www.achoAPPS.com
+#EXTINF:-1 ,RMadrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
-#EXTINF:-1 ,RTVCE www.achoAPPS.com
+#EXTINF:-1 ,RTVCE
 http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
-#EXTINF:-1 ,TeleSafor www.achoAPPS.com
+#EXTINF:-1 ,TeleSafor
 http://video.telesafor.com/hls/video_low.m3u8
-#EXTINF:-1 ,TeleValencia www.achoAPPS.com
+#EXTINF:-1 ,TeleValencia
 http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
-#EXTINF:-1 ,TV Galicia America www.achoAPPS.com
+#EXTINF:-1 ,TV Galicia America
 http://america-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 ,TV Galicia Europa www.achoAPPS.com
+#EXTINF:-1 ,TV Galicia Europa
 http://europa-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 ,TVG Xabarin www.achoAPPS.com
+#EXTINF:-1 ,TVG Xabarin
 http://infantil-crtvg.flumotion.com/chunks.m3u8
 #EXTINF:-1 group-title="Without category",as5
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
@@ -992,7 +881,7 @@ https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
 #EXTINF:-1 ,GTV
 http://id6.indostreamingtv.com/live/tv1/index.m3u8
-#EXTINF:-1 ,GTV+
+#EXTINF:-1 ,GTV
 https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
 #EXTINF:-1 ,RCTI
 https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
@@ -1000,7 +889,7 @@ https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 http://id6.indostreamingtv.com/live/rcti/index.m3u8
 #EXTINF:-1 ,LOCAL - [001] MNC TV
 http://id6.indostreamingtv.com/live/mnctv/index.m3u8
-#EXTINF:-1 ,MNC+
+#EXTINF:-1 ,MNC TV
 https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
 #EXTINF:-1 ,SCTV
 http://202.80.222.130/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -1008,7 +897,7 @@ http://202.80.222.130/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=0
 http://202.80.222.130/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 ,TRANS TV
 http://202.80.222.130/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 ,INEWS+
+#EXTINF:-1 ,INEWS
 https://live.rctiplus.id/rctiplus/inews_720p.m3u8
 #EXTINF:-1 ,NET TV
 http://202.80.222.130/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -1090,99 +979,6 @@ http://95.170.215.106/hls/m3u8/Bein-Sport-HD3.m3u8
 http://45.58.62.92:8080
 #EXTINF:-1 ,SPORTmax
 http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
-#EXTINF:-1 ,#EXTGRP:KIDS
-http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/108/index.m3u
-#EXTINF:-1 ,#EXTGRP:KIDS
-http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/109/index.m3u
-#EXTINF:-1 ,#EXTGRP:KIDS
-http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/114/index.m3u
-#EXTINF:-1 ,#EXTGRP:KIDS
-http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/541/index.m3u
-#EXTINF:-1 ,#EXTGRP:KIDS
-http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/524/index.m3u
-#EXTINF:-1 ,#EXTGRP:KIDS
-http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/543/index.m3u
-#EXTINF:-1 ,#EXTGRP:KIDS
-http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/138/index.m3u
-#EXTINF:-1 ,#EXTGRP:KIDS
-http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/143/index.m3u
-#EXTINF:-1 ,#EXTGRP:KIDS
-http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/156/index.m3u
-#EXTINF:-1 ,#EXTGRP:KIDS
-http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/129/index.m3u
-#EXTINF:-1 ,#EXTGRP:KIDS
-http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/909/index.m3u
-#EXTINF:-1 ,#EXTGRP:KIDS
-http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/240/index.m3u
-#EXTINF:-1 ,#EXTGRP:KIDS
-http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/723/index.m3u
-#EXTINF:-1 ,#EXTGRP:KIDS
-http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/727/index.m3u
-#EXTINF:-1 ,#EXTGRP:KIDS
-http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/730/index.m3u
-#EXTINF:-1 ,#EXTGRP:KIDS
-http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/737/index.m3u
-#EXTINF:-1 ,#EXTGRP:KIDS
-http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/740/index.m3u
-#EXTINF:-1 ,#EXTGRP:KIDS
-http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/749/index.m3u
-#EXTINF:-1 ,#EXTGRP:KIDS
-http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/921/index.m3u
-#EXTINF:-1 ,#EXTGRP:KIDS
-http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/1031/index.m3u
-#EXTINF:-1 ,#EXTGRP:KIDS
-http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/807/index.m3u
-#EXTINF:-1 ,#EXTGRP:KIDS
-http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/1033/index.m3u
-#EXTINF:-1 ,#EXTGRP:KIDS
-http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/1034/index.m3u
-#EXTINF:-1 ,#EXTGRP:KIDS
-http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/1041/index.m3u
-#EXTINF:-1 ,#EXTGRP:KIDS
-http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/1069/index.m3u
-#EXTINF:-1 ,#EXTGRP:KIDS
-http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/853/index.m3u
-#EXTINF:-1 ,#EXTGRP:ADULT 18+
-http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/526/index.m3u
-#EXTINF:-1 ,#EXTGRP:ADULT 18+
-http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/527/index.m3u
-#EXTINF:-1 ,#EXTGRP:ADULT 18+
-http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/147/index.m3u
-#EXTINF:-1 ,#EXTGRP:ADULT 18+
-http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/910/index.m3u
-#EXTINF:-1 ,#EXTGRP:ADULT 18+
-http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/919/index.m3u
-#EXTINF:-1 ,#EXTGRP:ADULT 18+
-http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/922/index.m3u
-#EXTINF:-1 ,#EXTGRP:ADULT 18+
-http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/923/index.m3u
-#EXTINF:-1 ,#EXTGRP:ADULT 18+
-http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/813/index.m3u
-#EXTINF:-1 ,#EXTGRP:ADULT 18+
-http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/1073/index.m3u
-#EXTINF:-1 ,#EXTGRP:ADULT 18+
-http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/1064/index.m3u
-#EXTINF:-1 ,#EXTGRP:ADULT 18+
-http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/871/index.m3u
-#EXTINF:-1 ,#EXTGRP:ADULT 18+
-http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/872/index.m3u
-#EXTINF:-1 ,#EXTGRP:ADULT 18+
-http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/875/index.m3u
-#EXTINF:-1 ,#EXTGRP:ADULT 18+
-http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/877/index.m3u
-#EXTINF:-1 ,#EXTGRP:ADULT 18+
-http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/878/index.m3u
-#EXTINF:-1 ,#EXTGRP:ADULT 18+
-http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/242/index.m3u
-#EXTINF:-1 ,#EXTGRP:ADULT 18+
-http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/243/index.m3u
-#EXTINF:-1 ,#EXTGRP:ADULT 18+
-http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/244/index.m3u
-#EXTINF:-1 ,#EXTGRP:ADULT 18+
-http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/245/index.m3u
-#EXTINF:-1 ,#EXTGRP:ADULT 18+
-http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/874/index.m3u
-RAW Paste Data
 #EXTINF:-1 group-title="Channels",24 Horas
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
 #EXTINF:-1 group-title="Channels",7 Murcia
