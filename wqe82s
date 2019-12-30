@@ -191,10 +191,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 http://stream.doball.com:8080/hls/ch1.m3u8
 #EXTINF:-1 ,FOX SPORT 1
 http://45.58.62.92:8080
-#EXTINF:-1 ,MTV Live
-http://tr-mola1.tcon.vds-ss.hvds.tv/Content/DASH/Live/channel(ec3598cd-3cef-4932-ed96-00f5cb8196ac)/manifest_L2.mpd?hdnts=st=1575812424~exp=1575816024~acl=/*~hmac=c42f2fca90c06cdc8c4c4dbe5bd210003706bc8babb6a708416ad54eb77e138f
-#EXTINF:-1 ,MTV Live 2
-http://cdn-mxs.akamaized.net/Content/DASH/Live/channel(ec3598cd-3cef-4932-ed96-00f5cb8196ac)/manifest_L2.mpd?hdnts=st=1575812424~exp=1575816024~acl=/*~hmac=c42f2fca90c06cdc8c4c4dbe5bd210003706bc8babb6a708416ad54eb77e138f
 #EXTINF:-1 ,AdultIPTV.net Anal
 http://cdn.adultiptv.net/anal.m3u8
 #EXTINF:-1 ,AdultIPTV.net Big Ass
