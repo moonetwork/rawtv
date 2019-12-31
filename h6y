@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 ,Ahsan TV
+#EXTINF:-1 tvg-logo="http://ahsan.tv/wp-content/uploads/2017/08/cropped-WhatsApp-Image-2017-08-08-at-11.16.14-1.jpeg",Ahsan TV
 http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
-#EXTINF:-1 ,Ahsan TV
+#EXTINF:-1 tvg-logo="http://ahsan.tv/wp-content/uploads/2017/08/cropped-WhatsApp-Image-2017-08-08-at-11.16.14-1.jpeg",Ahsan TV
 http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
-#EXTINF:-1 group-title="Sport",All Sports
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1062251825481404416/LHK-R9Hx_400x400.jpg" group-title="Sport",All Sports
 http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/chunklist_b307200_slFa.m3u8
-#EXTINF:-1 ,Animax
+#EXTINF:-1 tvg-logo="https://www.animaxtv.com/images/logo_animax.png",Animax
 http://210.210.155.35:80/dr9445/h/h144/index.m3u8
-#EXTINF:-1 ,Animax
+#EXTINF:-1 tvg-logo="https://www.animaxtv.com/images/logo_animax.png",Animax
 http://210.210.155.35:80/dr9445/h/h144/index2.m3u8
-#EXTINF:-1 ,Aniplus
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/aotg/aniplus/pos/aniplus_300.png",Aniplus
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
 #EXTINF:-1 ,ANTV
 http://202.80.222.130/000001/2/ch14061215034900095272/1001.m3u8?virtualDomain=000001.live_hls.zte.com
