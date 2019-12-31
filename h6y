@@ -1,0 +1,247 @@
+#EXTM3U
+#EXTINF:-1 ,Ahsan TV
+http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
+#EXTINF:-1 ,Ahsan TV
+http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+#EXTINF:-1 group-title="Sport",All Sports
+http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/chunklist_b307200_slFa.m3u8
+#EXTINF:-1 ,Animax
+http://210.210.155.35:80/dr9445/h/h144/index.m3u8
+#EXTINF:-1 ,Animax
+http://210.210.155.35:80/dr9445/h/h144/index2.m3u8
+#EXTINF:-1 ,Aniplus
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+#EXTINF:-1 ,ANTV
+http://202.80.222.130/000001/2/ch14061215034900095272/1001.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 ,ANTV
+http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 ,Bali TV
+http://202.80.222.171/000001/2/ch00000090990000001729/1001.m3u8.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 ,Bali TV
+http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="News",BeritaSatu
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+#EXTINF:-1 group-title="News",BeritaSatu
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+#EXTINF:-1 ,BeritaSatu World
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Celestial Movies
+http://210.210.155.35/qwr9ew/s/s33/01.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Movies",Celestial Movies
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+#EXTINF:-1 group-title="Movies",Celestial Movies
+http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8
+#EXTINF:-1 group-title="News",CNA
+http://210.210.155.35/session/35be7296-7b7a-11e8-8077-c81f66f89318/uq2663/h/h29/01.m3u8
+#EXTINF:-1 group-title="News",CNA
+http://210.210.155.35/uq2663/h/h29/index.m3u8
+#EXTINF:-1 ,CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+#EXTINF:-1 group-title="News",CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 group-title="News",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
+#EXTINF:-1 group-title="News",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w672934803_b384000_sleng.m3u8
+#EXTINF:-1 ,CNTV 2
+http://210.210.155.35/qwr9ew/s/s29/index.m3u8
+#EXTINF:-1 ,CTV Banten
+http://103.23.201.170:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 ,Da Ai Indonesia
+http://210.210.155.35/qwr9ew/s/s13/index.m3u8
+#EXTINF:-1 ,Da Ai Indonesia
+http://210.210.155.35/qwr9ew/s/s13/index2.m3u8
+#EXTINF:-1 ,Disney Junior Indonesia
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1 group-title="Entertainment",Diva
+http://210.210.155.35/uq2663/h/h11/01.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Entertainment",Diva
+http://45.126.83.51:443/uq2663/h/h11/01.m3u8
+#EXTINF:-1 ,DMI Channel
+http://stream1.ninmedia.tv/dmitv/udp.stream_360p/playlist.m3u8
+#EXTINF:-1 ,Dungdut TV
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",E!
+http://210.210.155.35/uq2663/h/h10/01.m3u8
+#EXTINF:-1 ,Elshinta
+http://210.210.155.35/qwr9ew/s/s10/01.m3u8
+#EXTINF:-1 group-title="Food",Foodie Channel
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/chunklist_b2288000.m3u8
+#EXTINF:-1 group-title="Food",Foodie Channel
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
+#EXTINF:-1 group-title="Food",Foodie Channel
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Entertainment",Gem TV Asia
+http://210.210.155.35/session/f438f266-7bf0-11e8-b712-b82a72d63267/uq2663/h/h19/index1.m3u8
+#EXTINF:-1 group-title="Entertainment",Gem TV Asia
+http://210.210.155.35/session/f438f266-7bf0-11e8-b712-b82a72d63267/uq2663/h/h19/index2.m3u8
+#EXTINF:-1 group-title="Entertainment",Gem TV Asia
+http://210.210.155.35/uq2663/h/h19/index2.m3u8
+#EXTINF:-1 group-title="Entertainment",Gem TV Asia
+http://45.126.83.51/uq2663/h/h19/index.m3u8
+#EXTINF:-1 ,Global TV
+http://202.80.222.182:80/000001/2/ch14041511505498448705/1001.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 ,Global TV
+http://202.80.222.182:80/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 ,GTV
+http://id6.indostreamingtv.com/live/tv1/index.m3u8
+#EXTINF:-1 ,Hits
+http://210.210.155.35/session/b664cd50-6b66-11e9-88bd-a3eeb50c438d/uq2663/h/h37/index2.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Entertainment",Hits
+http://210.210.155.35/uq2663/h/h37/index2.m3u8
+#EXTINF:-1 ,Home & Living
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/chunklist_b2288000.m3u8
+#EXTINF:-1 ,Home & Living
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
+#EXTINF:-1 ,Indosiar
+http://202.80.222.182/000001/2/ch15051810235326945512/1001.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 ,Indosiar
+http://202.80.222.182/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 ,Inews
+http://202.80.222.175/000001/2/ch14041511541532132975/1001.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 ,InsanTV
+http://wz.insantv.net/group/ngrp:insantv_all/chunklist_b1627136.m3u8
+#EXTINF:-1 ,J'go
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,J'go FMP
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
+#EXTINF:-1 group-title="News",Jakarta Globe
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+#EXTINF:-1 ,JakTV
+http://202.80.222.182:80/000001/2/ch00000090990000001695/1001.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 ,JakTV
+http://202.80.222.182:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 ,JTV Surabaya
+http://202.80.222.175/000001/2/ch00000090990000001731/1001.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 ,K Drama
+http://210.210.155.35/qwr9ew/s/s42/index2.m3u8
+#EXTINF:-1 ,K Drama
+http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,K+
+http://210.210.155.35/uq2663/h/h08/01.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,K+
+http://210.210.155.35/uq2663/h/h08/index.m3u8
+#EXTINF:-1 group-title="Music",Karaoke Channel
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
+#EXTINF:-1 group-title="Music",Karaoke Channel
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Music",Karaoke Channel
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
+#EXTINF:-1 ,KBS World (Indonesia)
+http://210.210.155.35:80/session/4bbb073a-34cf-11e9-8af5-9ad690129ed3/qwr9ew/s/s42/01.m3u8
+#EXTINF:-1 ,Kix
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Kix
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/index1.m3u8
+#EXTINF:-1 ,Kix
+http://210.210.155.35/uq2663/h/h07/01.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Kompas TV
+http://202.80.222.130/000001/2/ch00000090990000001730/1001.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 ,Madani
+http://210.210.155.35/qwr9ew/s/s41/index.m3u8
+#EXTINF:-1 ,Madani
+http://210.210.155.35/qwr9ew/s/s41/index2.m3u8
+#EXTINF:-1 ,Metro TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1 group-title="Music",Mix TV
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/playlist.m3u8
+#EXTINF:-1 ,MNC TV
+http://202.80.222.182/000001/2/ch14041511111714365733/1001.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Music",Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+#EXTINF:-1 ,My Cinema
+http://210.210.155.35/qwr9ew/s/s31/index2.m3u8
+#EXTINF:-1 ,My Cinema Channel
+http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+#EXTINF:-1 group-title="Kids",My Kids
+http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
+#EXTINF:-1 ,Net TV
+http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=OTT219782019062322524313983108
+#EXTINF:-1 ,Nu Channel
+http://stream1.ninmedia.tv/nuchannel/udp.stream_360p/playlist.m3u8
+#EXTINF:-1 ,Padang TV
+https://video2.onlivestreaming.net/robot/livestream/playlist.m3u8
+#EXTINF:-1 ,Radio 51 TV
+http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
+#EXTINF:-1 ,Rai Gulp
+http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
+#EXTINF:-1 ,Rajawali TV
+http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=OTT219992019062322543114287379
+#EXTINF:-1 ,RCTI
+http://202.80.222.130/000001/2/ch14041511532707866226/1001.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 ,RCTI
+http://202.80.222.182/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 ,RCTI
+https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
+#EXTINF:-1 ,Reformed 21
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
+#EXTINF:-1 ,RRI Net
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+#EXTINF:-1 ,RT
+http://210.210.155.35/session/efcc94f6-7b7a-11e8-afd3-b82a72d63267/qwr9ew/s/s23/01.m3u8
+#EXTINF:-1 ,RTM 2
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
+#EXTINF:-1 ,RTP
+http://210.210.155.35/qwr9ew/s/s38/index.m3u8
+#EXTINF:-1 ,RTV
+http://202.80.222.171:80/000001/2/ch00000090990000001716/1001.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=OTT2198020181031055334464619
+#EXTINF:-1 ,RTV
+http://202.80.222.171:80/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=OTT2198020181031055334464619
+#EXTINF:-1 ,Rumah TV
+https://video2.onlivestreaming.net/rumahtv/livestream/chunks.m3u8
+#EXTINF:-1 ,Saling Sapa TV
+http://stream1.ninmedia.tv/salingsapa/rtmp.stream_360p/playlist.m3u8
+#EXTINF:-1 ,SBS-in
+http://210.210.155.35/qwr9ew/s/s42/01.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,SBS-in
+http://210.210.155.35/qwr9ew/s/s42/index.m3u8
+#EXTINF:-1 ,SCTV
+http://202.80.222.182/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 ,Spacetoon Indonesia
+http://210.210.155.35/x6bnqe/s/s80/index2.m3u8
+#EXTINF:-1 group-title="Sport",Super Soccer TV
+http://210.210.155.35/session/6761fe90-7bf1-11e8-a850-b82a72d63267/uq2663/h/h20/index1.m3u8
+#EXTINF:-1 group-title="Sport",Super Soccer TV
+http://210.210.155.35/session/6761fe90-7bf1-11e8-a850-b82a72d63267/uq2663/h/h20/index2.m3u8
+#EXTINF:-1 ,Tahfizh TV
+http://119.235.249.58:1935/tahfidztv/live/chunk.m3u8
+#EXTINF:-1 ,Tahfizh TV
+http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
+#EXTINF:-1 ,TBN
+http://210.210.155.35/qwr9ew/s/s39/index.m3u8
+#EXTINF:-1 ,The Indonesia Channel
+http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
+#EXTINF:-1 ,The Indonesia Channel
+http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Entertainment",Thrill
+http://210.210.155.35/qwr9ew/s/s34/01.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Entertainment",Thrill
+http://210.210.155.35/qwr9ew/s/s34/index.m3u8
+#EXTINF:-1 group-title="Entertainment",Thrill
+http://210.210.155.35/qwr9ew/s/s34/index2.m3u8
+#EXTINF:-1 ,Toonmax
+http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
+#EXTINF:-1 ,TV Chosun
+http://live.chosun.gscdn.com/live/_definst_/tvchosun3.stream/playlist.m3u8
+#EXTINF:-1 ,TV1
+http://202.80.222.182/000001/2/ch14061215030555428637/1001.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 ,TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:-1 ,TVRI
+http://tvristream-i.akamaihd.net/hls/live/761941/akamai-tvri/stream04/streamPlaylist.m3u8
+#EXTINF:-1 ,TVRI 1
+http://210.210.155.35/qwr9ew/s/s11/01.m3u8
+#EXTINF:-1 ,UA TV
+http://210.210.155.35/qwr9ew/s/s47/index.m3u8
+#EXTINF:-1 ,Zee Bioskop
+http://210.210.155.35/qwr9ew/s/s32/01.m3u8
+#EXTINF:-1 ,Zee Bioskop
+http://210.210.155.35/qwr9ew/s/s32/01.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,KIX
+http://45.126.83.51/uq2663/h/h07/01.m3u8
+#EXTINF:-1 ,FOX ACTION MOVIES ID
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch312)/02.m3u8
+#EXTINF:-1 ,FOX
+http://161.0.157.7/PLTV/88888888/224/3221227013/index.m3u8
+#EXTINF:-1 ,FOX MOVIES PREMIUM
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
